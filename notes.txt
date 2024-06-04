@@ -1,0 +1,3 @@
+﻿froge_link:
+  CN: https://bmclapidoc.bangbang93.com/#api-Forge-ForgeDownload
+  UN: https://files.minecraftforge.net/net/minecraftforge/forge/

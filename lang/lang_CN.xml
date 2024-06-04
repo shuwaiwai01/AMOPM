@@ -1,0 +1,10 @@
+﻿<config>
+    <language_word>
+        <installed>已安装</installed>
+        <falled_to_install>安装失败</falled_to_install>
+        <Found>找到</Found>
+        <has>有</has>
+        <have>有</have>
+        <kawawii_ask_word>你想做什么呢欧尼酱？</kawawii_ask_word>
+    </language_word>
+</config>
