@@ -1,5 +1,5 @@
 ﻿import argparse
-from core import DepSetup
+from rt import DepSetup
 
 def main():
     parser = argparse.ArgumentParser(description='Dependency Checker and Game Config Utility.')
